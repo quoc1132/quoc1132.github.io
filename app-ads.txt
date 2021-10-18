@@ -93,3 +93,5 @@ adtarget.com.tr, 306742, DIRECT
 admatic.com.tr, adm-pub-185375301865, DIRECT
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
+
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
