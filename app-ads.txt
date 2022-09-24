@@ -1,4 +1,5 @@
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+google.com, pub-7539841224625099, DIRECT, f08c47fec0942fa0
 
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
