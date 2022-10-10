@@ -120,3 +120,4 @@ yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 video.unrulymedia.com, 170071695, RESELLER
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
